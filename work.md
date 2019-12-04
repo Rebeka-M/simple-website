@@ -1,2 +1,2 @@
 #work
-[![Sample Image](/IMG/drinks.png)
+![Sample Image](/IMG/drinks.png)
